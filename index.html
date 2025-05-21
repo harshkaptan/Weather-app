@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Weather App</title>
+</head>
+
+<body>
+    <div class="container">
+        <nav>
+
+            <div class="search">
+                <input type="text" name="city" id="city" placeholder="Search Location">
+                <div class="search_icon">
+                    <img src="./assets/search_24px.svg" alt="search icon">
+                </div>
+                <div class="search-results"></div>
+            </div>
+        </nav>
+        <main>
+            <div class="city_wrapper">
+                <span class="city">Hyderdabad</span>
+                <img src="./assets/Vector.svg" alt="" class="location_img">
+            </div>
+            <div class="main-info-wrapper">
+                <div class="main-info">
+                    <div class="condition-info">
+                        <span class="date">04 August 2024</span>
+                        <span class="condition">Sunny</span>
+                        <span class="temperature">30°C</span>
+                    </div>
+                    <div class="condition-image">
+                        <img src="./assets/Group 34.svg" alt="">
+                    </div>
+                </div>
+
+            </div>
+        </main>
+        <section>
+            <div class="details">
+                <div class="details-item">
+                    <div class="wind-img">
+                        <img src="./assets/fast-wind.svg" alt="">
+                    </div>
+                    <div class="info-items">
+                        <span class="info-text wind">10 m/s</span>
+                        <span class="info-name">Wind</span>
+                    </div>
+                </div>
+                <div class="details-item">
+                    <div class="wind-img">
+                        <img src="./assets/humidity.svg" alt="">
+                    </div>
+                    <div class="info-items">
+                        <span class="info-text humidity">98%</span>
+                        <span class="info-name">humidity</span>
+                    </div>
+                </div>
+                <div class="details-item">
+                    <div class="wind-img">
+                        <img src="./assets/sun-cloud-hailstone-01.svg" alt="">
+                    </div>
+                    <div class="info-items">
+                        <span class="info-text Rain">100 mm</span>
+                        <span class="info-name">Rain</span>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section>
+            <div class="weather-details">
+                <div class="detail-card">
+                    <div class="detail-icon">
+                        <img src="./assets/thermometer.svg" alt="Feels Like">
+                    </div>
+                    <div class="detail-info">
+                        <span class="detail-value feels-like">--°C</span>
+                        <span class="detail-label">Feels Like</span>
+                    </div>
+                </div>
+                <div class="detail-card">
+                    <div class="detail-icon">
+                        <img src="./assets/uv-index.svg" alt="UV Index">
+                    </div>
+                    <div class="detail-info">
+                        <span class="detail-value uv-index">--</span>
+                        <span class="detail-label">UV Index</span>
+                    </div>
+                </div>
+                <div class="detail-card">
+                    <div class="detail-icon">
+                        <img src="./assets/visibility.svg" alt="Visibility">
+                    </div>
+                    <div class="detail-info">
+                        <span class="detail-value visibility">-- km</span>
+                        <span class="detail-label">Visibility</span>
+                    </div>
+                </div>
+                <div class="detail-card">
+                    <div class="detail-icon">
+                        <img src="./assets/air-quality.svg" alt="Air Quality">
+                    </div>
+                    <div class="detail-info">
+                        <span class="detail-value air-quality">--</span>
+                        <span class="detail-label">Air Quality</span>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section>
+            <div class="weather-recommendation">
+                <h3>Weather Recommendations</h3>
+                <div class="recommendation-content">
+                    <div class="recommendation-item">
+                        <span class="recommendation-icon">🌡️</span>
+                        <p class="recommendation-text">Loading recommendations...</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section>
+            <div class="hourly-forecast">
+                <span class="forecast_title">Hourly Forecast</span>
+                <div class="hour-item-wrapper">
+                    <div class="hour-item">
+                        <span class="hour-1 hour-time">10 am</span>
+                        <span class="hour-1-img"><img src="./assets/sun-cloud-01.svg" alt=""></span>
+                        <span class="hour-1-temp hour-temp">30°</span>
+                    </div>
+                    <div class="hour-item">
+                        <span class="hour-2 hour-time">10 am</span>
+                        <span class="hour-2-img"><img src="./assets/sun-cloud-01.svg" alt=""></span>
+                        <span class="hour-2-temp hour-temp">30°</span>
+                    </div>
+                    <div class="hour-item">
+                        <span class="hour-3 hour-time">10 am</span>
+                        <span class="hour-3-img"><img src="./assets/sun-cloud-01.svg" alt=""></span>
+                        <span class="hour-3-temp hour-temp">30°</span>
+                    </div>
+                    <div class="hour-item">
+                        <span class="hour-4 hour-time">10 am</span>
+                        <span class="hour-4-img"><img src="./assets/sun-cloud-01.svg" alt=""></span>
+                        <span class="hour-4-temp hour-temp">30°</span>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <script src="script.js"></script>
+</body>
+
+<img src="" alt="">
+
+</html>
