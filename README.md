@@ -8,11 +8,6 @@
 
 #### 🔍 City Search & 🌦️ Real-Time Weather Result (Side by Side)
 
-<p align="center">
-  <img src="https://github.com/harshkaptan/Weather-app.github.io/blob/main/assets/hyderabad-search.png?raw=true" width="25%" />
-  &nbsp;
-  <img src="https://github.com/harshkaptan/Weather-app.github.io/blob/main/assets/hyderabad-weather.png?raw=true" width="25%" />
-</p>
 
 
 
