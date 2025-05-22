@@ -9,10 +9,11 @@
 #### 🔍 City Search & 🌦️ Real-Time Weather Result (Side by Side)
 
 <p align="center">
-  <img src="https://github.com/VrajChariot/Weather-App/blob/main/assets/search-preview.png?raw=true" width="25%" />
+  <img src="https://github.com/harshkaptan/Weather-app.github.io/blob/main/assets/search-preview.png?raw=true" width="25%" />
   &nbsp;
-  <img src="https://github.com/VrajChariot/Weather-App/blob/main/assets/weather-preview.png?raw=true" width="25%" />
+  <img src="https://github.com/harshkaptan/Weather-app.github.io/blob/main/assets/weather-preview.png?raw=true" width="25%" />
 </p>
+
 
 
 
@@ -99,5 +100,6 @@ Weather-App/
 ### 🤝 Connect with Me
 - harshkaptan@gmail.com
 
-[![GitHub](https://img.shields.io/badge/GitHub-VrajChariot-black?logo=github)](https://github.com/VrajChariot)  [![Live Demo](https://img.shields.io/badge/Live%20App-Weather--App-blue)](https://vrajchariot.github.io/Weather-App/)
+[![GitHub](https://img.shields.io/badge/GitHub-HarshKaptan-black?logo=github)](https://github.com/HarshKaptan)  
+[![Live Demo](https://img.shields.io/badge/Live%20App-Weather--App-blue)](https://harshkaptan.github.io/Weather-app.github.io/)
 
