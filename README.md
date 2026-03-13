@@ -29,7 +29,7 @@
 
 ### 🚀 Live Demo
 
-[Click here to try the app 🔗](https://harshkaptan.github.io/Weather-app.github.io/)
+[Click here to try the app 🔗](https://hkweather-app.netlify.app/)
 
 ---
 
